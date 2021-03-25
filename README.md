@@ -3,7 +3,7 @@ Project in development for an old Brushless analog (+10/-10v) trapezoidal magnet
 
 The idea behind this project in current development is to provide a conversion controller for old CNC machinery where brushless controlers expect analog speed/torque input signal
 with values of +10v/-10v. The advantaje with the system is that the position feedback is provided by an encoder, in this case an incremental heds 9140 with two digital channel and
-a complete rotation digital signal thus preventing the motor from lose position in comparission to Stepper motors. A problem is that this type of interface is no longer
+a complete rotation digital signal is atached to the motor shaft thus preventing the motor from lose position in comparission to Stepper motors. A problem is that this type of interface is no longer
 supported by most common cnc controllers. 
 
 
